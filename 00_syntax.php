@@ -10,5 +10,13 @@
 <body>
 Hello World
 <!--Echo HTML tags-->
+
+<?php
+  echo "<h2>Hi :)</h2>"
+  
+?>
+
+
+
 </body>
 </html>
